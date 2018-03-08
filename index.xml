@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="layout/master.xsl"?>
+<payload>
+   <metadata>
+       <title>Welcome</title>
+       <description>A sample site for a WET 5 Theme</description>
+       <author>Government of Canada</author>
+       <language>en</language>
+   </metadata>
+   <content>
+       <h1>Hello World</h1>
+   </content>
+</payload>
